@@ -1,0 +1,15 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "hamming_dist_nonneg",
+    "hamming_dist_symm",
+    "hamming_dist_eq_zero_iff",
+    "rs_proximity_soundness_statement"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ]
+}
