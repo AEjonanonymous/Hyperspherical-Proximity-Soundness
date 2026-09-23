@@ -94,7 +94,7 @@ This project is open-source software licensed under the *GNU Affero General Publ
 
 ### 📜 Commercial Exemption & Proprietary Integration
 
-Due to the strong copyleft provisions of the AGPL, any commercial entity, defense contractor, or enterprise organization that integrates this formal Lean proof, embeds its verification artifacts, or links its formalization into a proprietary, closed-source software product is legally required to make their entire product source code open-source under the terms of the AGPL. For organizations wishing to incorporate these machine-certified stability guarantees into closed-source commercial products or proprietary toolchains without triggering AGPL distribution obligations, commercial exemptions are available. 
+Due to the strong copyleft provisions of the AGPL, any commercial entity, defense contractor, or enterprise organization that integrates this formal Lean proof, embeds its verification artifacts, or links its formalization into a proprietary, closed-source product is legally required to make their entire product source code open-source under the terms of the AGPL. For organizations wishing to incorporate these machine-certified guarantees into closed-source commercial products or proprietary toolchains without triggering AGPL distribution obligations, commercial exemptions are available. 
 
 *Disclaimer:* Commercial exemptions grant the legal right to bypass AGPL copyleft restrictions for proprietary integration. All formal verification artifacts and proof files are provided **"as is"**, without warranty of any kind, express or implied. The integration, application, validation, and operational safety verification of the code within any commercial product remain entirely the responsibility of the licensee.
 
