@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite this research as follows."
+authors:
+  - name: "Jonathan ƒ(n)"
+title: "Hyperspherical Proximity Soundness for Zero Knowledge and Interactive Oracle Proof Systems: A Provably Sound Closed-Form Error Bound for Reed-Solomon Proximity Testing via Hamming Association Schemes, Delsarte's Duality, and Krawtchouk Polynomials in Lean 4 and Comparator."
+version: 1.0.0
+doi: 10.5281/zenodo.22885468
+date-released: 2026-09-22
